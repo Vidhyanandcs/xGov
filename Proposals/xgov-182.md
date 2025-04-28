@@ -41,6 +41,9 @@ The AirGap Wallet creates transactions, broadcasts transactions and shows a port
 We intend to integrate airgap vault and airgap wallet to algorand via isolated modules. Once integartion is audited and merged by airgap team it can be verified at
 https://github.com/airgap-it/airgap-coin-lib
 
+We have implemented the isolated modules: https://github.com/securecerts/algorand-airgap/tree/develop
+Airgap team has to review it which they have not yet done
+
 ## Future Blueprint
 
 Update the isolated modules wrt updates in the ecosystem.
